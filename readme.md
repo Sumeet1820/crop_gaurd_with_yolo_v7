@@ -42,7 +42,7 @@ The project titled "Crop Guard - Animal Detection in Crop Fields" aims to develo
 ![About Us Page](output/AboutUs.png)
 
 
-**Detection Page**
+**#Detection Page**
 
 ![Detection Page](output/DetectPage.png)
 
